@@ -1,0 +1,7 @@
+main_model contains code for running probabilistic model which accompanies FD_search code.
+
+scaling_relationships computes the Hack's law, and exceeding probability distribution for upstream lengths and contributing areas.
+
+There's final_sim_param_variation code which runs parallel simulation to compute quantities inclusing scaling exponents, gravelius compactness coefficient etc.
+
+plotting and saving/extracting data codes are for parallel analysis output of previous parallel simulation.
