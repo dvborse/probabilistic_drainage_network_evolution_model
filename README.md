@@ -11,7 +11,8 @@ described in:
 
 ## Model overview
 
-The model grows a drainage network headward from outlets using two
+The model creates 2D drainage network patterns using probabilistic rules based on physical ideas
+mimics the natural drainage networks. The model grows a drainage network headward from outlets using two
 probabilistic rules at each step:
 
 1. **Which pixel grows next?**  
